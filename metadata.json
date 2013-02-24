@@ -1,0 +1,41 @@
+{
+  "license": "Apache 2.0",
+  "recipes": {
+    "screen": ""
+  },
+  "conflicting": {
+
+  },
+  "dependencies": {
+
+  },
+  "providing": {
+    "screen": [
+
+    ]
+  },
+  "long_description": "",
+  "description": "Installs ruby 1.9.3",
+  "replacing": {
+
+  },
+  "platforms": {
+    "debian": [
+    ],
+     "ubuntu": [
+    ]
+  },
+  "version": "0.1.0",
+  "maintainer": "Josh Rendek",
+  "recommendations": {
+
+  },
+  "name": "vnstat",
+  "maintainer_email": "josh@joshrendek.com",
+  "attributes": {
+
+  },
+  "suggestions": {
+
+  }
+}

@@ -9,11 +9,7 @@
 packages = case node[:platform]
            when "ubuntu","debian"
              [
-               "ruby#{rv}",
-               "rdoc#{rv}",
-               "ri#{rv}",
-               "irb#{rv}",
-               "libopenssl-ruby#{rv}"
+               "ruby1.9.3"
              ].compact
 
            end
